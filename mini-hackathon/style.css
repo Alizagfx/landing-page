@@ -89,7 +89,7 @@
 
   .hero-title {
     font-size: 3rem;
-    color: #0047AB;
+    color: black;
     margin-bottom: 20px;
   }
   .de-simone,.formulation {
@@ -155,7 +155,7 @@
   }
   .science-title {
     font-size: 3rem;
-    color: #0047AB;
+    color: rgb(203, 45, 139);
     margin-bottom: 20px;
   }
   .science-description {
@@ -199,8 +199,11 @@
   }
   .work-title {
     font-size: 3rem;
-    color: #0047AB;
+    color: black;
     margin-bottom: 20px;
+  }
+  .work{
+    color: #ff0077;
   }
   .work-description {
     font-size: 1.2rem;
@@ -221,7 +224,7 @@
   }
   .formulation-title {
     font-size: 3rem;
-    color: #0047AB;
+    color: black;
     margin-bottom: 20px;
   }
   .formulation-description {
@@ -243,8 +246,14 @@
   }
   .de-simone-title {
     font-size: 3rem;
-    color: #0047AB;
+    color: black;
     margin-bottom: 20px;
+  }
+  .line{
+    color: rgb(38, 177, 180);
+  }
+  .line2{
+color: black;
   }
   .de-simone-description {
     font-size: 1.2rem;
